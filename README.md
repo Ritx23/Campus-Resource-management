@@ -70,12 +70,6 @@ cd backend
 npm install
 ```
 
-Create `backend/.env`:
-
-```env
-MONGO_URL=mongodb://127.0.0.1:27017/campus_resource_db
-```
-
 Run backend server:
 
 ```bash
